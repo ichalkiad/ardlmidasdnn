@@ -6,7 +6,10 @@ Please cite the paper as follows:
 
 
 
+The data that were used in the studies are included in the folder data/.
 
-Tested with Python v3.6.7 and R v3.6.1.
+Please make sure to adjust the path names in some of the scripts if necessary.
+
+Tested with R v3.6.1.
 
 Copyright @ Authors August 2021
